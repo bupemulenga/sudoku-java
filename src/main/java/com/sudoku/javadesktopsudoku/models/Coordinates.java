@@ -1,4 +1,4 @@
-package models;
+package com.sudoku.javadesktopsudoku.models;
 
 import java.util.Objects;
 

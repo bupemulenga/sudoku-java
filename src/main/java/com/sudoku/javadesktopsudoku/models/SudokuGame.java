@@ -1,4 +1,6 @@
-package models;
+package com.sudoku.javadesktopsudoku.models;
+
+import com.sudoku.javadesktopsudoku.constants.GameState;
 
 import java.io.Serializable;
 
